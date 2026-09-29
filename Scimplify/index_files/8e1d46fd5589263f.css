@@ -1,0 +1,1 @@
+.item:hover{flex:4}.imagecarousel{height:233px;margin-bottom:30px;display:flex;width:fit-content;gap:20px}.imagecarousel img{margin:0}.imagecarousel{animation:bannermove 2s linear infinite}@keyframes bannermove{0%{transform:translateX(0)}to{transform:translateX(-100%)}}
